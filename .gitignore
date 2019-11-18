@@ -104,3 +104,6 @@ ENV/
 .data/*
 .vector_cache/*
 saves/*
+*.pt
+.vscode/
+custom_embeddings/trained_embeddings.*
